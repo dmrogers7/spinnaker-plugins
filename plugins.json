@@ -8,7 +8,7 @@
         "version": "0.1.0",
         "date": "2021-03-15T01:16:42.903535Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "8efe1794b024778dd992f50cf70a201905d9415e50975ad30bf32cd50f3a6e76d52ae426cc1d3d543f1aa2537928fcfb3a73f3512dabb08cb3c0ed20d7a5eb33",
+        "sha512sum": "7ba68450289badd19cf0c74b2e2c6921c180eeca9454bf133a152c75d00a36f93011d86bdddb1e972659e89e191e8490871649402947bcc7221b81efa1c23477",
         "state": "RELEASE",
         "url": "https://maven.artifactory.homedepot.com/artifactory/libs-release/com/homedepot/cd/cloud-run-plugin/v0.1.0/cloudRunPlugin-v0.1.0.zip"
       }
