@@ -1,0 +1,17 @@
+[
+  {
+    "id": "homedepot.CloudRunPlugin",
+    "description": "Home Depot's Cloud Run plugin implementation",
+    "provider": "https://github.com/spinnaker-plugin-examples",
+    "releases": [
+      {
+        "version": "0.1.0",
+        "date": "2021-03-15T01:16:42.903535Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "8efe1794b024778dd992f50cf70a201905d9415e50975ad30bf32cd50f3a6e76d52ae426cc1d3d543f1aa2537928fcfb3a73f3512dabb08cb3c0ed20d7a5eb33",
+        "state": "RELEASE",
+        "url": "https://maven.artifactory.homedepot.com/artifactory/libs-release/com/homedepot/cd/cloud-run-plugin/v0.1.0/cloudRunPlugin-v0.1.0.zip"
+      }
+    ]
+  }
+]
